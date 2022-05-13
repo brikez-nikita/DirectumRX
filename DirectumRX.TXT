@@ -1,0 +1,10 @@
+На мой взгляд в бд не хватает таблицы сheif.
+id_cheif  name  salary
+1         name1  2700
+2         name2  2200
+3         name3  2300
+4         name4  2100
+5         name5  2400
+6         name6  2900
+7         name7  2500
+8         name8  2800
